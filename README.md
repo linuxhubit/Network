@@ -1,11 +1,11 @@
-# Network #gentedilinux
+# Network linuxpeople
 Indice nato per riunire gruppi e canali Telegram Italiani che trattano di Linux e Open source. 
 
 ## Gruppi
-### /gentedilinux
+### linuxpeople
 Gruppo dedicato ai temi Open Source e GNU/Linux, in special modo alla personalizzazione di esso.  
 
-→ [@gentedilinux](https://t.me/@gentedilinux)
+→ [@linuxpeople](https://t.me/@linuxpeople)
 
 ---
 ### XFCE Italia
@@ -188,10 +188,10 @@ Le ultime notizie riguardanti Librem 5, lo smartphone di Purism.
 → [@librem5](https://t.me/@librem5)
 
 ---
-### /feed/gentedilinux
-Tutti i nuovi desktop di gentedilinux in tempo reale, oltre che guide, risorse e consigli dal team.  
+### Feed linuxpeople
+Tutti i nuovi desktop di linuxpeople in tempo reale, oltre che guide, risorse e consigli dal team.  
 
-→ [@gentedilinux_feed](https://t.me/@gentedilinux_feed)
+→ [@linuxpeople_feed](https://t.me/@linuxpeople_feed)
 
 ---
 ### FelineSec
